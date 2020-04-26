@@ -4,7 +4,7 @@ This repository contains code and associated files for deploying a plagiarism de
 
 ## Project Overview
 
-The project outlinesa plagiarism detector which classfies as an answer as plagiarised or not compared to a source answer text.
+The project outlines a plagiarism detector which classfies as an answer as plagiarised or not compared to a source answer text.
 
 This task is broken down into three main notebooks:
 
