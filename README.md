@@ -29,4 +29,3 @@ This task is broken down into three main notebooks:
 ---
 
 Please see the [README](https://github.com/udacity/ML_SageMaker_Studies/tree/master/README.md) in the root directory for instructions on setting up a SageMaker notebook and downloading the project files (as well as the other notebooks).
-
